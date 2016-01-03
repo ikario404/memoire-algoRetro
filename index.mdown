@@ -69,10 +69,10 @@ Beaucoup moins venant d'autres initiatives...
 - _que dénotte la foi en l'algorithme ?_
 [voir]:(http://blog.fgribreau.com/2008/06/la-rtro-ingnierie-reverse-engineering.html)  
 - De la retroconception  
-  - [reverse social enginerring]:(http://security.stackexchange.com/questions/18723/what-is-reverse-social-engineering)  
-  - [reverse social enginerring pdf]:(http://iseclab.org/papers/irani_dimva.pdf)  
-  - [reverse social enginerring blog]:(http://engineering.social/2015/05/02/sinkholing-script-kiddies/)  
-  - thèse avec quelques liens entre agronomie logicielle et retroIng (a voir...):[https://tel.archives-ouvertes.fr/tel-00914318/document]  
+  - [reverse social enginerring](http://security.stackexchange.com/questions/18723/what-is-reverse-social-engineering)  
+  - [reverse social enginerring pdf](http://iseclab.org/papers/irani_dimva.pdf)  
+  - [reverse social enginerring blog](http://engineering.social/2015/05/02/sinkholing-script-kiddies/)  
+  - thèse avec quelques liens entre (agronomie logicielle et retroIng)[https://tel.archives-ouvertes.fr/tel-00914318/document]  
   
 :warning: Bien faire la distinction avec le hacking et/ou les délits et crimes.  
 
