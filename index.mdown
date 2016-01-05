@@ -8,7 +8,7 @@
   - [Terrain possible...](#terrain-possible)  
 3. [Notes](#notes)  
   - [Syntaxes/lexiques/autres](#syntaxeslexiquesautres)  
-  - [Lectures/Biblio](#lectures/biblio)  
+  - [Lectures/Biblio](#lecturesbiblio)  
   - [Liens à trier...](#liens-à-trier)  
 
 ## Présupposés
