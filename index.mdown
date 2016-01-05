@@ -1,15 +1,15 @@
 # Algorithmes numérique et retroingénierie
 
-1. [Présupposés](#Présupposés)  
-2. [Approches](#Approches)  
-  - [Cibler l'objet algorithme numérique?](#Cibler-l'objet-algorithme-numérique?)  
-  - [Questionner la retroingénierie des algorithmes](#Questionner-la-retroingénierie-des-algorithmes)  
-  - [Idées problématique...](#Idées-problématique)  
-  - [Terrain possible...](#Terrain-possible)  
-3. [Notes](#Notes)  
-  - [Syntaxes/lexiques/autres](#Syntaxes/lexiques/autres)  
-  - [Lectures/Biblio](#Lectures/Biblio)  
-  - [Liens à trier...](#Liens-à-trier)  
+1. [Présupposés](#présupposés)  
+2. [Approches](#approches)  
+  - [Cibler l'objet algorithme numérique?](#cibler-l'objet-algorithme-numérique?)  
+  - [Questionner la retroingénierie des algorithmes](#questionner-la-retroingénierie-des-algorithmes)  
+  - [Idées problématique...](#idées-problématique)  
+  - [Terrain possible...](#terrain-possible)  
+3. [Notes](#notes)  
+  - [Syntaxes/lexiques/autres](#syntaxes/lexiques/autres)  
+  - [Lectures/Biblio](#lectures/biblio)  
+  - [Liens à trier...](#liens-à-trier)  
 
 ## Présupposés
 - Nos sociétés se numérisent plus profondement et plus intensèment.  
