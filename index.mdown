@@ -1,6 +1,17 @@
 # Algorithmes numérique et retroingénierie
 
-## Présupposés  
+1. [Présupposés](#Présupposés)  
+2. [Approches](#Approches)  
+  - [Cibler l'objet algorithme numérique?](#Cibler-l'objet-algorithme-numérique?)  
+  - [Questionner la retroingénierie des algorithmes](#Questionner-la-retroingénierie-des-algorithmes)  
+  - [Idées problématique...](#Idées-problématique)  
+  - [Terrain possible...](#Terrain-possible)  
+3. [Notes](#Notes)  
+  - [Syntaxes/lexiques/autres](#Syntaxes/lexiques/autres)  
+  - [Lectures/Biblio](#Lectures/Biblio)  
+  - [Liens à trier...](#Liens-à-trier)  
+
+## Présupposés
 - Nos sociétés se numérisent plus profondement et plus intensèment.  
 (voir [automatisation selon B. Stiegler][id])   
 - Ce qui augmente par là même le recours aux algorithmes numerique.  
@@ -9,6 +20,7 @@ Sorte de "prothèse numérique"...
 
    [id]: http://www.culturemobile.net/visions/bernard-stiegler-emploi-est-mort-vive-travail  "Title"  
 
+## Approches
 ### Cibler l'objet algorithme numérique ?
 (Qu'est ce qu'un algorithme ?)  
 (historique avec lien dans secteur militaire)
@@ -27,7 +39,7 @@ Sorte de "prothèse numérique"...
 
 **Idée : ne pas voir trop large et ne cibler qu'un type d'algo ? (ex : algo social notamment facebook car fonctionnement en 'vase clos' qui me permettrait d'observer comme une sorte de prisme ?)**
 
-### Retroingénierie 
+### Questionner la retroingénierie des algorithmes 
 (autre nom : rétro-conception + faire la def)  
 ( Que dit la Loi FR ? )  
 ( :warning: Ici on ne va pas s'interesser à la retro-ingéniérie logicielle ni hardware sauf intro)  
