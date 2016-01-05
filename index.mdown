@@ -9,6 +9,24 @@ Sorte de "prothèse numérique"...
 
    [id]: http://www.culturemobile.net/visions/bernard-stiegler-emploi-est-mort-vive-travail  "Title"  
 
+### Cibler l'objet algorithme numérique ?
+(Qu'est ce qu'un algorithme ?)  
+(historique avec lien dans secteur militaire)
+- Distinguer la variété des algorithmes
+    - Parmis Algorithme numérique (cf. grille Cardon)
+        - **Algo de plateformes sociale**  
+          (edgerank > facebook, twitter, exemple : "quels meilleurs heure pour publier", etc.)
+        - **Algo d'autorités** (pagerank et son ecosystème google favorisant le SEO etc;)  
+          voir article ["pourqueoi je deteste charlatan seo"](http://blog.ramenos.net/referencement/les-charlatans-du-seo-pourquoi-je-les-deteste)  
+          voir blog [bortzmeyer.org](http://www.bortzmeyer.org/seo-principes.html)
+        - **Algo de prédiction**  
+          (amazon ranking : cf. egalement des formes de SEO dessus... / Quid des algo de prediction sur le réels type criminalité?)
+        - **Algo de popularités**  
+          (trucage ? )  
+- les algo en formes de "nouveaux gatekeeper"
+
+**Idée : ne pas voir trop large et ne cibler qu'un type d'algo ? (ex : algo social notamment facebook car fonctionnement en 'vase clos' qui me permettrait d'observer comme une sorte de prisme ?)**
+
 ### Retroingénierie 
 (autre nom : rétro-conception + faire la def)  
 ( Que dit la Loi FR ? )  
@@ -34,28 +52,22 @@ Sorte de "prothèse numérique"...
         - **Objectifs d’émancipation citoyenne ?**
         - **Autre ?**
 
-### Cibler l'objet algorithme numérique ?
-(Qu'est ce qu'un algorithme ?)  
-(historique avec lien dans secteur militaire)
-- Distinguer la variété des algorithmes
-    - Parmis Algorithme numérique (cf. grille Cardon)
-        - **Algo de plateformes sociale**  
-          (edgerank > facebook, twitter, "quels meilleurs heure pour publier", etc.)
-        - **Algo d'autorités** (pagerank et son ecosystème google favorisant le SEO etc;)  
-          voir article ["pourqueoi je deteste charlatan seo"](http://blog.ramenos.net/referencement/les-charlatans-du-seo-pourquoi-je-les-deteste)  
-          voir blog [bortzmeyer.org](http://www.bortzmeyer.org/seo-principes.html)
-        - **Algo de prédiction**  
-          (amazon ranking : cf. egalement des formes de SEO dessus... / Quid des algo de prediction sur le réels type criminalité?)
-        - **Algo de popularités**  
-          (trucage ? )  
-- les algo en formes de "nouveaux gatekeeper"
+### Idées problématique...
+**Comment l'outil algorithme s'intègre numériquement dans notre société ?  
+Ou comment s'adopte t'il ?  
+Quels formes ?**
 
-**Idée : ne pas voir trop large et ne cibler qu'un type d'algo ? (ex : algo social notamment facebook car fonctionnement en 'vase clos' qui me permettrait d'observer comme une sorte de prisme ?)**
-
-
-### Idées problématique
-#### Comment l'outil algorithme s'intègre numériquement dans notre société ? Ou comment s'adopte t'il ? Quels formes ?
-
+### Terrain possible
+- Algo de plateformes sociale  
+  - [moz users](https://moz.com/community/users)  
+  - [blackhatworld.com social media](http://www.blackhatworld.com/blackhat-seo/facebook/810831-any-facebook-competitor-reverse-engineering-tool.html)  
+- Algo d'autorités (pagerank et son ecosystème google favorisant le SEO etc;)  
+  - [blackhatworld.com SEO/BlackSEO](http://www.blackhatworld.com/)  
+  - [moz users](https://moz.com/community/users)  
+- Algo de prédiction  
+  - [Jam - Science po](https://www.facebook.com/Jam-299724236866849/)
+- Algo de popularités  
+  - [Médiamétrie - Comment ça marche (youtube)](https://www.youtube.com/watch?v=8gJnYmawah4)
 
 ## Notes
 - Quid des pratiques de 'dynamic pricing' (sncf qui monte les prix)  
@@ -72,6 +84,8 @@ Beaucoup moins venant d'autres initiatives...
   - [reverse social enginerring](http://security.stackexchange.com/questions/18723/what-is-reverse-social-engineering)  
   - [reverse social enginerring pdf](http://iseclab.org/papers/irani_dimva.pdf)  
   - [reverse social enginerring blog](http://engineering.social/2015/05/02/sinkholing-script-kiddies/)  
+  - thèse avec quelques liens entre agronomie logicielle et retroIng...  
+  a voir : [Contribution de l’ingenierie dirigee par les modeles a la conception de modeles grande culture ...](https://tel.archives-ouvertes.fr/tel-00914318/document)
   - thèse avec quelques liens entre (agronomie logicielle et retroIng)[https://tel.archives-ouvertes.fr/tel-00914318/document]  
   
 :warning: Bien faire la distinction avec le hacking et/ou les délits et crimes.  
@@ -95,6 +109,7 @@ a voir : [comparaison d'algo pour mesure de pollution eau...](http://www.eau-sei
 - [ ] Latanay Sweeney, Google Ads, Black Names and white names, racial discrimination, and Click Advertising, ACM Queue, 2013
 - [ ] Bernard Stiegler, la société automatique, 1 l'avenir du travail (2015)
 - [ ] The Glass Cage (nicolas Carr)
+- [ ] Flichy, sacre de l'amateur
 - [x] D. Cardon, Reve Algo, 2015
 
 #### Liens à trier...
