@@ -2,12 +2,12 @@
 
 1. [Présupposés](#présupposés)  
 2. [Approches](#approches)  
-  - [Cibler l'objet algorithme numérique?](#cibler-l'objet-algorithme-numérique?)  
+  - [Cibler l'objet algorithme numérique?](#cibler-lobjet-algorithme-numérique-)  
   - [Questionner la retroingénierie des algorithmes](#questionner-la-retroingénierie-des-algorithmes)  
   - [Idées problématique...](#idées-problématique)  
   - [Terrain possible...](#terrain-possible)  
 3. [Notes](#notes)  
-  - [Syntaxes/lexiques/autres](#syntaxes/lexiques/autres)  
+  - [Syntaxes/lexiques/autres](#syntaxeslexiquesautres)  
   - [Lectures/Biblio](#lectures/biblio)  
   - [Liens à trier...](#liens-à-trier)  
 
