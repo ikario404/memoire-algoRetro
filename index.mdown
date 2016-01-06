@@ -71,6 +71,9 @@ Quels formes ?**
 
 ### Terrain possible
 - Algo de plateformes sociale  
+  - voir le phénomène [initial chat friendlist](https://www.google.fr/search?client=ubuntu&channel=fs&q=initial+chat+friendlist&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=xPuMVqr0FJTu8wftralY) : fantasme de  qui vient voir votre profil.  
+  + [voir aussi](https://www.facebook.com/help/community/question/?id=10201206953830505)  
+  + [voir aussi](https://www.facebook.com/LeSaviezVousOfficial/posts/586956601348581)
   - [moz users](https://moz.com/community/users)  
   - [blackhatworld.com social media](http://www.blackhatworld.com/blackhat-seo/facebook/810831-any-facebook-competitor-reverse-engineering-tool.html)  
 - Algo d'autorités (pagerank et son ecosystème google favorisant le SEO etc;)  
@@ -98,7 +101,7 @@ Beaucoup moins venant d'autres initiatives...
   - [reverse social enginerring blog](http://engineering.social/2015/05/02/sinkholing-script-kiddies/)  
   - thèse avec quelques liens entre agronomie logicielle et retroIng...  
   a voir : [Contribution de l’ingenierie dirigee par les modeles a la conception de modeles grande culture ...](https://tel.archives-ouvertes.fr/tel-00914318/document)
-  - thèse avec quelques liens entre (agronomie logicielle et retroIng)[https://tel.archives-ouvertes.fr/tel-00914318/document]  
+  - thèse avec quelques liens entre [agronomie logicielle et retroIng](https://tel.archives-ouvertes.fr/tel-00914318/document)  
   
 :warning: Bien faire la distinction avec le hacking et/ou les délits et crimes.  
 
@@ -116,15 +119,28 @@ a voir : [comparaison d'algo pour mesure de pollution eau...](http://www.eau-sei
 
 ### Lectures/Biblio
 - [ ] Ambition Numerique, juin 2015
-- [ ] BlackBox Society
+- [-] BlackBox Society
 - [ ] Can an algorithm  be Wrong ? (2012)
 - [ ] Latanay Sweeney, Google Ads, Black Names and white names, racial discrimination, and Click Advertising, ACM Queue, 2013
-- [ ] Bernard Stiegler, la société automatique, 1 l'avenir du travail (2015)
+- [-] Bernard Stiegler, la société automatique, 1 l'avenir du travail (2015)
 - [ ] The Glass Cage (nicolas Carr)
-- [ ] Flichy, sacre de l'amateur
+- [x] Flichy, sacre de l'amateur
 - [x] D. Cardon, Reve Algo, 2015
+- [ ] Aramis ou la mort des techniques
+- [ ] Michel bowens. Sauver le monde: Vers une économie post-capitaliste avec le peer-to-peer
+- [ ] Michel lallemend. L'Âge du faire Hacking, travail, anarchie
+- [x] A nos amis, le comité invisible
+- [ ] Bruno Latour, la science en action
+- [ ] B. Latour, théorie de l'acteur R
 
 #### Liens à trier...
+http://www.internetactu.net/2013/10/08/surveiller-les-algorithmes/
+http://www.internetactu.net/2016/01/05/larchitecture-et-le-bazar-quest-ce-qui-nous-determine/
 http://www.webmarketing-conseil.fr/edgerank-facebook/
+[Intéressant : lien avec easter egg ultra complexe gamer, qui necessite retro-eng + une video youtube](http://www.numerama.com/tech/136157-136157.html)  
+ |-> voir aussi le rapport des [gamer avec IA](http://motherboard.vice.com/fr/read/le-concept-de-vraie-ia-dans-les-jeux-vidos-nest-quun-outil-marketing) (une des applications grands publique prématurée)  
+ http://lise-cnrs.cnam.fr/l-age-du-faire-hacking-travail-anarchie-712291.kjsp
+
+
 
 :eyes:
