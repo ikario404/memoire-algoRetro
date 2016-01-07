@@ -69,6 +69,9 @@ Sorte de "prothèse numérique"...
 Ou comment s'adopte t'il ?  
 Quels formes ?**
 
+Que denotte les tentatives de Retro-ingénierie sur les algorithmes de type sociaux?  
+(ou algo d'information? Comment relier fb et ggle ?)
+
 ### Terrain possible
 - Algo de plateformes sociale  
   - voir le phénomène [initial chat friendlist](https://www.google.fr/search?client=ubuntu&channel=fs&q=initial+chat+friendlist&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=xPuMVqr0FJTu8wftralY) : fantasme de  qui vient voir votre profil.  
@@ -139,8 +142,26 @@ http://www.internetactu.net/2016/01/05/larchitecture-et-le-bazar-quest-ce-qui-no
 http://www.webmarketing-conseil.fr/edgerank-facebook/
 [Intéressant : lien avec easter egg ultra complexe gamer, qui necessite retro-eng + une video youtube](http://www.numerama.com/tech/136157-136157.html)  
  |-> voir aussi le rapport des [gamer avec IA](http://motherboard.vice.com/fr/read/le-concept-de-vraie-ia-dans-les-jeux-vidos-nest-quun-outil-marketing) (une des applications grands publique prématurée)  
- http://lise-cnrs.cnam.fr/l-age-du-faire-hacking-travail-anarchie-712291.kjsp
+ http://lise-cnrs.cnam.fr/l-age-du-faire-hacking-travail-anarchie-712291.kjsp  
+[antiIVG devant resultat Google](https://www.facebook.com/Causette/posts/1130304883655711:0)  
+http://www.numerama.com/magazine/29271-google-avortement-ivg-antiivg-referencement-sanctions-publicites-seo.html  
 
+http://www.dotcult.com/you-cant-reverse-engineer-the-google-algorithm/  
+http://www.seo-theory.com/2011/01/07/why-you-cannot-reverse-engineer-googles-algorithm/  
+http://www.seobythesea.com/2014/08/google-attacks-reverse-engineering/  
+http://www.analyticbridge.com/profiles/blogs/how-to-reverse-engineer-google  
+  
+
+http://www.spyfu.com/overview/domain?query=ivg.net  
+https://ahrefs.com/  
+http://follow.net/  
+http://compete.com  
+http://quantcast.com  
+http://similarweb.com  
+http://semrush.com  
+http://spyfu.com  
+http://majestic.com  
+http://moz.com  
 
 
 :eyes:
