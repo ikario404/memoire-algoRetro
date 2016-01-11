@@ -1,5 +1,8 @@
 # Algorithmes numérique et retroingénierie
 
+Idée titre : Pratique de la retro-ingénierie à travers les Algorithmes numérique  
+Quel place laissée à la retro-ingénierie au sein des algorithmes numérique?  
+
 1. [Présupposés](#présupposés)  
 2. [Approches](#approches)  
   - [Cibler l'objet algorithme numérique?](#cibler-lobjet-algorithme-numérique-)  
@@ -97,7 +100,7 @@ Beaucoup moins venant d'autres initiatives...
 - idees intro avec lien entre elonMusk && OpenAI && OpenSource && (this)...  
 (http://rba3info.blogspot.fr/)  
 - _que dénotte la foi en l'algorithme ?_
-[voir]:(http://blog.fgribreau.com/2008/06/la-rtro-ingnierie-reverse-engineering.html)  
+[voir]:(http://blog.fgribreau.com/2008/06/la-trro-ingnierie-reverse-engineering.html)  
 - De la retroconception  
   - [reverse social enginerring](http://security.stackexchange.com/questions/18723/what-is-reverse-social-engineering)  
   - [reverse social enginerring pdf](http://iseclab.org/papers/irani_dimva.pdf)  
@@ -135,6 +138,7 @@ a voir : [comparaison d'algo pour mesure de pollution eau...](http://www.eau-sei
 - [x] A nos amis, le comité invisible
 - [ ] Bruno Latour, la science en action
 - [ ] B. Latour, théorie de l'acteur R
+- B. Maaris (idée de l'homme chercheur)
 
 #### Liens à trier...
 http://www.internetactu.net/2013/10/08/surveiller-les-algorithmes/
