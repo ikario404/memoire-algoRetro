@@ -108,7 +108,15 @@ Beaucoup moins venant d'autres initiatives...
   - thèse avec quelques liens entre agronomie logicielle et retroIng...  
   a voir : [Contribution de l’ingenierie dirigee par les modeles a la conception de modeles grande culture ...](https://tel.archives-ouvertes.fr/tel-00914318/document)
   - thèse avec quelques liens entre [agronomie logicielle et retroIng](https://tel.archives-ouvertes.fr/tel-00914318/document)  
-  
+
+Thèses du savoir pouvoir Michel F.  
+
+
+Approche par l'affaire VW  
+Approche par communautés SEO  
+Approche par facebook visibilité (userVSgroupVSpageVSbrand?)  
+
+
 :warning: Bien faire la distinction avec le hacking et/ou les délits et crimes.  
 
 ### Syntaxes/lexiques/autres
@@ -155,6 +163,7 @@ http://www.seo-theory.com/2011/01/07/why-you-cannot-reverse-engineer-googles-alg
 http://www.seobythesea.com/2014/08/google-attacks-reverse-engineering/  
 http://www.analyticbridge.com/profiles/blogs/how-to-reverse-engineer-google  
   
+[SamanthaWest le robot télémarkeuteur](http://www.dailymail.co.uk/news/article-2524157/Samantha-West-Robot-telemarketer-denies-shes-robot.html)  
 
 http://www.spyfu.com/overview/domain?query=ivg.net  
 https://ahrefs.com/  
