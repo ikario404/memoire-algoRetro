@@ -91,6 +91,9 @@ Que denotte les tentatives de Retro-ingénierie sur les algorithmes de type soci
   - [Médiamétrie - Comment ça marche (youtube)](https://www.youtube.com/watch?v=8gJnYmawah4)
 
 ## Notes
+- **questionner le lien entre retroEng et organisation du travail**  
+- **questionner pratique de google de retroEng (cf. recolte de bug) + voir par rapport aux autres, confronter ces visions différentes...**
+- **voir terrain autour Netflix, Spotify**
 - Quid des pratiques de 'dynamic pricing' (sncf qui monte les prix)  
 _Retrouver l'histoire de l'arnaques école42, billet d'avion_  
 - Voir wiki sur l'effet Matthieu  
